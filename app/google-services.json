@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304402354706",
+    "project_id": "homedeco-d757e",
+    "storage_bucket": "homedeco-d757e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304402354706:android:b741b6728550e74d96becb",
+        "android_client_info": {
+          "package_name": "com.necibeguner.homedeco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrKiFuTE0dv38b7U8sOL5m8vm7wuXi24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
